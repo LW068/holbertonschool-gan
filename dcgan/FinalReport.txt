@@ -1,0 +1,14 @@
+# Summary of My DCGAN Adventure
+Starting this project, my goal was simple: make a computer program that could create new images of numbers that looked like they were written by a person. I began with a basic setup, a sort of "default" version, which did okay but nothing too exciting.
+
+**Experiment 1:**
+In the first real test, i changed some settings in the program's learning process to see if it could improve.  This helped the program learn better and gave me smoother results. I kept getting similar image patterns.
+
+**Experiment 2:**
+Next, I played with how much data the program looks at once.I needed to find a balance that was "just right" which was challening imho. Images were more "volatile" and changed more often than exp1.
+
+**Experiment 3:**
+For the third test, I tried to make the program work faster by being a bit less precise. It's like speed-reading a book; you go faster, but you might miss some details. The images got a bit blurry, so maybe faster isn't always better. The images did show slight paint brush type strokes so maybe it did kinda work?
+
+**Weights & Biases**
+I wanted to use a tool called Weights & Biases to keep track of how my program was doing, But I ran into some issues and couldn't get it to work right, which was a bummer.
