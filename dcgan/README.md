@@ -10,7 +10,7 @@ This repository is organized to support the development and tracking of the Deep
 
 ## Directory Structure
 
-- `HolbertonSchool-DCGAN`: This single Google Colab notebook contains the entire project's workflow, from data loading and preprocessing to model training and evaluation.
+- `HolbertonSchool-DCGAN.ipynb`: This single Google Colab notebook contains the entire project's workflow, from data loading and preprocessing to model training and evaluation.
 
 ## Notebook Structure
 
