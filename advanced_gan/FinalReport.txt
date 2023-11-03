@@ -1,0 +1,14 @@
+# CelebA Experiments - Task 1
+
+**Basline: Initial setup**
+Beginning with the base setup, results were okay, I was able to even preview the images to make sure they were downlaoded and preporcessed correctly.
+
+**Experiment 1: Architecture variations**
+In this one, i  modified the existing GAN architecture with specific architectural variations to optimize it for the project. The goal was to observe how these architectural changes would impact the quality and "diversity' of the generated images.
+
+**Experiment 2: Hyperparameter Tuning**
+In this experiment, I messed with hyperparameter tuning with the aim of optimizing the training process and enhancing image quality. The primary goal was to determine how specific hyperparameter changes could influence training stability and the eventual quality of generated images. (still had trouble with the whole "batching" of the images!)
+
+---
+
+My main insight and takeaway is to not choose a large dataset when relying on the colabs GPU or RAM because I had to split it all into batches and just over compliacted eerything and want able to generate any menainigful outputs.
